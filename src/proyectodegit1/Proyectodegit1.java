@@ -8,7 +8,11 @@ public class Proyectodegit1 {
             System.out.println(i);
 
         }
-
+        //Esto es otro ciclo de prueba
+        for (int i = 0; i <= 5; i++) {
+            System.out.println("Bachillerato");
+            
+        }
     }
 
 }
